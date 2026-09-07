@@ -2,7 +2,7 @@
 
 > **Learning coding and cybersecurity — one step, one project at a time.**
 
-🌐 **Live Website:** Add your GitHub Pages URL here
+🌐 **Live Website: https://yash01-ak.github.io/my-first-website/
 
 ---
 
