@@ -102,27 +102,6 @@ I created this project to:
 * Create a foundation for future projects
 
 ---
-
-## ⚖️ Copyright & Content Notice
-
-The original HTML and other project code written specifically for this project are my own work unless otherwise stated.
-
-The project does not intentionally claim ownership of third-party material.
-
-If third-party resources are added in future versions, their respective copyright notices and license terms should be respected.
-
----
-
-## 📜 License
-
-Unless a separate license is added to this repository, **no open-source license is granted by default** for the original code.
-
-Please do not assume that the project's code may be copied, modified, or redistributed without permission.
-
-Any third-party material used in the project remains subject to its respective license or copyright terms.
-
----
-
 ## 🔮 Future Plans
 
 Some things I may add in the future:
@@ -150,5 +129,6 @@ A student learning programming and cybersecurity from the fundamentals.
 ## ⭐ Support
 
 If you find this project interesting, you can ⭐ **star the repository** and follow along as the project grows.
+More Projects are coming soon...
 
 **Thanks for visiting! 💻🔐**
