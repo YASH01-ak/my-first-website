@@ -129,6 +129,7 @@ A student learning programming and cybersecurity from the fundamentals.
 ## ⭐ Support
 
 If you find this project interesting, you can ⭐ **star the repository** and follow along as the project grows.
+
 More Projects are coming soon...
 
 **Thanks for visiting! 💻🔐**
